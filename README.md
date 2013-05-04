@@ -1,0 +1,4 @@
+sqz
+===
+
+Schrödinger Quanten Zähler
